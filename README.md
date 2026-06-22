@@ -1,2 +1,13 @@
-# house_price_predection_project
-Machine Learning project for California house price prediction using Linear Regression, One-Hot Encoding, and Streamlit deployment.
+# House Price Prediction
+
+Machine Learning project using Linear Regression and Streamlit.
+
+## Features
+- Predict California house prices
+- Interactive Streamlit UI
+- Pickle model deployment
+
+## Run Locally
+
+pip install -r requirements.txt
+streamlit run app.py
